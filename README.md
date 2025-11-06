@@ -1,4 +1,4 @@
-# Sajilo Furniture 🪑🛋️
+# Sajilo Furniture
 
 **Sajilo Furniture** is a group semester project developed during our **3rd Year, 2nd Semester**.  
 It is an e-commerce web platform designed to make furniture shopping easier and more accessible for users across Nepal.  
